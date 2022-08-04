@@ -1,0 +1,5 @@
+﻿  oblic.cpp
+D:\Унік\Програмач\oblic\oblic\oblic.cpp(196,9): warning C4101: 'num': unreferenced local variable
+D:\Унік\Програмач\oblic\oblic\oblic.cpp(640,9): warning C4101: 'id': unreferenced local variable
+D:\Унік\Програмач\oblic\oblic\oblic.cpp(640,13): warning C4101: 'num': unreferenced local variable
+  oblic.vcxproj -> D:\Унік\Програмач\oblic\Debug\oblic.exe
